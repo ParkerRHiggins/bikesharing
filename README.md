@@ -21,7 +21,7 @@ The highest morning ride volume occurred at 8AM and the highest afternoon ride v
 
 
 ### Checkout Times for Users Viz
-The most common trip duration is for all riders is about 5 minutes per ride.
+The most common trip duration for all riders is about 5 minutes per ride.
 
 ![](Images/CheckoutTimesForUsers.png)
 
@@ -53,7 +53,6 @@ Most users are by far subscribers to CitiBike compared to customers and happen t
 To view my CitiBike Story in Tableau, please select the link below.
 
 [link to dashboard](https://public.tableau.com/profile/parker.higgins#!/vizhome/Citibike_Challenge_16179268333720/CitiBikeStory "link to dashboard")
-
 
 ## Summary
 In conclusion, most of our users (~65%) happen to be male subscribers to CitiBike.  The average duration of rides are about 5 minutes with females having a slightly longer trip duration per ride then males. Both males and females follow the same trend of most rides occurring at 8AM in the morning and 5PM to 6PM in the afternoon on weekdays. This appears to be related to morning and afternoon work commutes.  During weekends, we see a different story with most rides occurring between 10AM to 6PM. Thursdays between 5PM to 6PM seem to be our most popular day for both males and females which is worth further investigation. Bike repair will be a necessity for the company and I would recommend bike repairs to occur at 2AM to 4AM because we see our lowest volume of riders during that time window.
