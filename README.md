@@ -51,6 +51,7 @@ Most users are by far subscribers to CitiBike compared to customers and happen t
 
 ### Tableau CitiBike Story
 To view my CitiBike Story in Tableau, please select the link below.
+
 [link to dashboard](https://public.tableau.com/profile/parker.higgins#!/vizhome/Citibike_Challenge_16179268333720/CitiBikeStory "link to dashboard")
 
 
